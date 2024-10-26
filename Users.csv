@@ -1,0 +1,25 @@
+givenName,surName,department,companyname,country,city,jobtitle
+Mikkel,Hansen,Ledelse,DigSecIndustry,Norway,Trondheim,CEO
+Markus,Medby,Ledelse,DigSecIndustry,Norway,Trondheim,CTO
+Kristian,Haug,Ledelse,DigSecIndustry,Norway,Trondheim,CFO
+Ivar,Martinsen,Ledelse,DigSecIndustry,Norway,Trondheim,HR-sjef
+Maren,Moe,Utvikling,DigSecIndustry,Norway,Trondheim,Utviklingsleder
+Geir,Wang,Utvikling,DigSecIndustry,Norway,Trondheim,Seniorutvikler
+Kjetil,Riis,Utvikling,DigSecIndustry,Norway,Trondheim,Seniorutvikler
+Johan,Karlsen,Utvikling,DigSecIndustry,Norway,Trondheim,Seniorutvikler
+Dagfinn,Warholm,Utvikling,DigSecIndustry,Norway,Trondheim,Juniorutvikler
+Gjermund,Haugen,Utvikling,DigSecIndustry,Norway,Trondheim,Juniorutvikler
+Lars,Bentzen,Utvikling,DigSecIndustry,Norway,Trondheim,Juniorutvikler
+Rolf,Pedersen,Utvikling,DigSecIndustry,Norway,Trondheim,Juniorutvikler
+Stian,Ytreland,Salg,DigSecIndustry,Norway,Trondheim,Salgs- og Markedsføringssjef
+Petra,Alver,Salg,DigSecIndustry,Norway,Trondheim,Selger
+Kari,Fretheim,Salg,DigSecIndustry,Norway,Trondheim,Selger
+Nina,Pedersen,Salg,DigSecIndustry,Norway,Trondheim,Markedsfører
+Bente,Gundersen,Salg,DigSecIndustry,Norway,Trondheim,Markedsfører
+Siri,Moen,Kundesupport,DigSecIndustry,Norway,Trondheim,Supportsjef
+Jan,Eide,Kundesupport,DigSecIndustry,Norway,Trondheim,Supportmedarbeider
+Astrid,Evjen,Kundesupport,DigSecIndustry,Norway,Trondheim,Supportmedarbeider
+Daniel,Thorsen,Kundesupport,DigSecIndustry,Norway,Trondheim,Supportmedarbeider
+Jonas,Skott,IT-drift,DigSecIndustry,Norway,Trondheim,IT-sjef
+Rikard,Berg,IT-drift,DigSecIndustry,Norway,Trondheim,IT-spesialist
+Emilie,Lien,Administrasjon,DigSecIndustry,Norway,Trondheim,Økonomiansvarlig
